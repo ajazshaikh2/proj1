@@ -3,7 +3,9 @@
 
 print "Good Morning to All"
 
-print "Good evening to All"
+msg = 'Good evening to All'
+
+print msg
 
 #Call the function from date.py and pprint the date
 
