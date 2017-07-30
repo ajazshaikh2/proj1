@@ -3,7 +3,7 @@
 
 print "Good Morning to All"
 
-print "Good evening to All"
+print "Good night to All"
 
 #Call the function from date.py and pprint the date
 
